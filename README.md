@@ -32,6 +32,7 @@ Machine Learning: Content-based filtering with cosine similarity
 API: TMDb API
 
 📁 Project Structure
+
 movies-recommender-system/
 │
 ├── app.py                  # Main Streamlit application
@@ -39,6 +40,8 @@ movies-recommender-system/
 ├── similarity.pkl          # Precomputed similarity matrix
 ├── movie-recommender-system.ipynb  # Notebook for building logic (optional)
 ├── README.md               # You're reading it!
+
+
 🚀 How to Run
 Install dependencies:
 
